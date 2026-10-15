@@ -1,0 +1,1139 @@
+# Copyright (C) 2026 Themewant
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Themewant Product Gallery 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/themewant-product-gallery\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-01T06:40:28+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: themewant-product-gallery\n"
+
+#. Plugin Name of the plugin
+#: themewant-product-gallery.php
+msgid "Themewant Product Gallery"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: themewant-product-gallery.php
+msgid "https://themewant.com/plugins/demo/easygallery/"
+msgstr ""
+
+#. Description of the plugin
+#: themewant-product-gallery.php
+msgid "Easy Product Gallery plugin allows you to add extra images for each product variation, so customers can view different images when switching between variations. Instantly upgrade the default WooCommerce product gallery into an attractive thumbnail-based gallery slider on the single product page to help boost sales."
+msgstr ""
+
+#. Author of the plugin
+#: themewant-product-gallery.php
+msgid "Themewant"
+msgstr ""
+
+#. Author URI of the plugin
+#: themewant-product-gallery.php
+msgid "http://themewant.com/"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:41
+msgid "Thumbs Bottom"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:46
+msgid "Thumbs Left"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:51
+msgid "Thumbs Right"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:56
+msgid "Thumbs Top"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:61
+msgid "Product Slider"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:66
+msgid "Carousel 2 Column"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:80
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:86
+msgid "Enable Product Gallery"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:92
+msgid "Gallery Layout"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:99
+msgid "Grid Large Thumbnail Size"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:107
+msgid "Grid Large Image Size"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:108
+#: admin/class-woo-gallery-setting-fields.php:219
+#: admin/class-woo-gallery-setting-fields.php:476
+msgid "Enter number width unit. for ex: 400px . You need to <a href=\"https://wordpress.org/plugins/regenerate-thumbnails/\">regenerate</a> image after change sizes."
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:118
+msgid "Enable Product Gallery for Variations"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:124
+msgid "Slide Adaptive Height"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:125
+msgid "Resize the Gallery Section Height to Match the Image Height"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:131
+msgid "Hide Feature Image"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:137
+msgid "Hide Featured Image on Variations"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:161
+#: admin/class-woo-gallery-setting-fields.php:486
+#: admin/class-woo-gallery-setting-fields.php:955
+msgid "Slide"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:162
+#: admin/class-woo-gallery-setting-fields.php:487
+msgid "Fade"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:163
+#: admin/class-woo-gallery-setting-fields.php:488
+msgid "Cube"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:164
+#: admin/class-woo-gallery-setting-fields.php:489
+msgid "Flip"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:165
+#: admin/class-woo-gallery-setting-fields.php:490
+msgid "Coverflow"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:166
+#: admin/class-woo-gallery-setting-fields.php:491
+msgid "Creative"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:174
+#: admin/class-woo-gallery-setting-fields.php:645
+msgid "Dot Style"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:179
+#: admin/class-woo-gallery-setting-fields.php:650
+msgid "Dynamic bullet Style"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:184
+#: admin/class-woo-gallery-setting-fields.php:655
+msgid "fraction Style"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:193
+#: admin/class-woo-gallery-setting-fields.php:662
+msgid "Vertical Bottom"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:194
+#: admin/class-woo-gallery-setting-fields.php:663
+msgid "Horizontal Right"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:204
+#: admin/class-woo-gallery-setting-fields.php:461
+msgid "Gallery Slider Settings:"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:210
+#: admin/class-woo-gallery-setting-fields.php:218
+#: admin/class-woo-gallery-setting-fields.php:467
+#: admin/class-woo-gallery-setting-fields.php:475
+msgid "Slider Image Size"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:229
+#: admin/class-woo-gallery-setting-fields.php:484
+msgid "Slider Effect"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:237
+#: admin/class-woo-gallery-setting-fields.php:508
+msgid "Autoplay"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:243
+#: admin/class-woo-gallery-setting-fields.php:514
+msgid "Infinite Loop?"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:249
+#: admin/class-woo-gallery-setting-fields.php:520
+msgid "RTL Enable?"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:255
+#: admin/class-woo-gallery-setting-fields.php:526
+msgid "Free Mode Enable?"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:261
+#: admin/class-woo-gallery-setting-fields.php:532
+msgid "Slider Speed (ms)"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:272
+#: admin/class-woo-gallery-setting-fields.php:543
+#: admin/class-woo-gallery-setting-fields.php:773
+msgid "Mouse Wheel"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:278
+msgid "Main Slider Size"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:279
+msgid "Enter number width unit. for ex: 400px."
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:296
+#: admin/class-woo-gallery-setting-fields.php:549
+#: admin/class-woo-gallery-setting-fields.php:813
+msgid "Padding"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:297
+#: admin/class-woo-gallery-setting-fields.php:310
+#: admin/class-woo-gallery-setting-fields.php:550
+#: admin/class-woo-gallery-setting-fields.php:561
+#: admin/class-woo-gallery-setting-fields.php:814
+#: admin/class-woo-gallery-setting-fields.php:830
+msgid "Enter number width unit. for ex: 10px."
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:309
+#: admin/class-woo-gallery-setting-fields.php:560
+#: admin/class-woo-gallery-setting-fields.php:829
+msgid "Margin"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:327
+msgid "Main Product Navigation"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:333
+#: admin/class-woo-gallery-setting-fields.php:591
+msgid "Enable Main Product Navigation"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:339
+#: admin/class-woo-gallery-setting-fields.php:597
+msgid "Thumbnail Nav Visibility"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:341
+#: admin/class-woo-gallery-setting-fields.php:402
+#: admin/class-woo-gallery-setting-fields.php:600
+#: admin/class-woo-gallery-setting-fields.php:695
+#: admin/class-woo-gallery-setting-fields.php:881
+msgid "Hover"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:342
+#: admin/class-woo-gallery-setting-fields.php:401
+#: admin/class-woo-gallery-setting-fields.php:601
+#: admin/class-woo-gallery-setting-fields.php:694
+#: admin/class-woo-gallery-setting-fields.php:880
+msgid "Always"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:349
+#: admin/class-woo-gallery-setting-fields.php:608
+msgid "Thumbnail Nav Color"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:352
+#: admin/class-woo-gallery-setting-fields.php:424
+#: admin/class-woo-gallery-setting-fields.php:612
+#: admin/class-woo-gallery-setting-fields.php:717
+#: admin/class-woo-gallery-setting-fields.php:892
+#: admin/class-woo-gallery-setting-fields.php:1001
+#: admin/class-woo-gallery-setting-fields.php:1139
+#: admin/settings/fields/border.php:40
+msgid "Color"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:353
+#: admin/class-woo-gallery-setting-fields.php:613
+#: admin/class-woo-gallery-setting-fields.php:893
+#: admin/class-woo-gallery-setting-fields.php:1002
+#: admin/class-woo-gallery-setting-fields.php:1140
+msgid "Hover Color"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:354
+#: admin/class-woo-gallery-setting-fields.php:412
+#: admin/class-woo-gallery-setting-fields.php:614
+#: admin/class-woo-gallery-setting-fields.php:705
+#: admin/class-woo-gallery-setting-fields.php:894
+#: admin/class-woo-gallery-setting-fields.php:1003
+#: admin/class-woo-gallery-setting-fields.php:1141
+msgid "Background"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:355
+#: admin/class-woo-gallery-setting-fields.php:615
+#: admin/class-woo-gallery-setting-fields.php:895
+#: admin/class-woo-gallery-setting-fields.php:1004
+#: admin/class-woo-gallery-setting-fields.php:1142
+msgid "Hover Background"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:362
+#: admin/class-woo-gallery-setting-fields.php:622
+#: admin/class-woo-gallery-setting-fields.php:902
+msgid "Nav Icon Size (px)"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:379
+msgid "Main Product Pagination"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:385
+#: admin/class-woo-gallery-setting-fields.php:677
+msgid "Enable Main Product Pagination"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:391
+#: admin/class-woo-gallery-setting-fields.php:683
+msgid "Pagination Design View"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:399
+#: admin/class-woo-gallery-setting-fields.php:691
+msgid "Pagination Visibility"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:409
+#: admin/class-woo-gallery-setting-fields.php:702
+msgid "Pagination Background Color"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:413
+#: admin/class-woo-gallery-setting-fields.php:706
+msgid "Active Background"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:421
+#: admin/class-woo-gallery-setting-fields.php:714
+msgid "Pagination Fraction Color"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:432
+#: admin/class-woo-gallery-setting-fields.php:725
+msgid "Pagination Position"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:498
+msgid "Slider Orientation"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:500
+msgid "Horizontal"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:501
+msgid "Vertical"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:585
+msgid "Product Navigation Settings:"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:671
+msgid "Product Pagination Settings:"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:761
+msgid "Thumb Slider Settings:"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:767
+msgid "Enable Slider"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:779
+msgid "Slides Per View"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:786
+msgid "Slides Gap"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:787
+msgid "Set horizontal and vertical gap between slides."
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:790
+#: admin/settings/fields/dimensionsgap.php:18
+msgid "Horizontal Gap"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:795
+#: admin/settings/fields/dimensionsgap.php:33
+msgid "Vertical Gap"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:806
+msgid "Thumbnail Size"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:865
+msgid "Thumb Navigation Settings:"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:871
+msgid "Enable Thumbnails Navigation"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:877
+msgid "Thumb Nav Visibility"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:888
+msgid "Thumb Nav Color"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:940
+msgid "Lightbox Settings:"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:946
+msgid "Enable Lightbox"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:952
+msgid "Lightbox Slide Effect"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:963
+msgid "Lightbox Icon Display Position"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:966
+msgid "Top Right"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:967
+msgid "Top Left"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:968
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:969
+#: admin/class-woo-gallery-setting-fields.php:1218
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:970
+#: admin/class-woo-gallery-setting-fields.php:1091
+msgid "Middle"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:978
+msgid "Enable Lightbox Caption"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:985
+msgid "Lightbox Image Counter"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:997
+msgid "Close Icon Color"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1035
+msgid "Default"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1045
+msgid "Zoom Settings:"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1051
+msgid "Enable Image Zoom"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1057
+msgid "Zoom Style"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1101
+msgid "Video Settings"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1107
+msgid "Enable Product Gallery Video"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1113
+msgid "Video Play Mode"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1115
+msgid "Inline"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1116
+msgid "Popup"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1124
+msgid "Video Play Icon Size"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1126
+msgid "Enter value with unit. Example: 85px"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1136
+msgid "Video Icon Color"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1165
+msgid "Video Icon Position"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1174
+msgid "Autoplay Video"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1181
+msgid "Video Loop"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1188
+msgid "Video Preloader"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1224
+msgid "Nav View"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1234
+msgid "360 Degree View Settings"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1240
+msgid "Enable 360 Degree Popup"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1246
+msgid "Popup Button Position"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1255
+msgid "Bottom Offset (%)"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1270
+msgid "Left Offset (%)"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1283
+msgid "360Degree Layout"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1291
+msgid "Popup Content Width"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1292
+msgid "Enter number width unit. for ex: 600px."
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1302
+msgid "Popup Content Height"
+msgstr ""
+
+#: admin/class-woo-gallery-setting-fields.php:1303
+msgid "Enter height with unit (ex: 400px, 60%)."
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:93
+#: admin/class-woo-product-gallery-admin.php:94
+msgid "Easy Product Gallery"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:104
+#: admin/class-woo-product-gallery-admin.php:105
+msgid "Gallery Layouts"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:113
+#: admin/class-woo-product-gallery-admin.php:114
+#: admin/class-woo-product-gallery-admin.php:225
+#: admin/class-woo-product-gallery-admin.php:334
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:145
+msgid "Modern Grid One / Two / Three / Four"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:146
+msgid "Layout vertical scroll"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:147
+msgid "Number and Progressbar styles"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:148
+msgid "Zoom Window, Zoom Lens, Zoom Window Two"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:149
+msgid "Lens shape, color, and border customization"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:150
+msgid "Zoom window size and distance settings"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:151
+msgid "Vimeo, Dailymotion, Facebook video"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:152
+msgid "Self-hosted video (MP4 / WebM)"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:153
+msgid "Custom aspect ratio and player controls"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:154
+msgid "360° autoplay and speed configuration"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:155
+msgid "Button position (all four corners)"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:156
+msgid "Drag to rotate interaction"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:163
+msgid "Carousel 1 Column"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:167
+msgid "Modern Grid One"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:171
+msgid "Modern Grid Two"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:175
+msgid "Modern Grid Three"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:179
+msgid "Modern Grid Four"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:186
+msgid "Number Style"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:190
+msgid "Progressbar Style"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:197
+#: admin/class-woo-product-gallery-admin.php:542
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:198
+msgid "Product Updates"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:199
+msgid "Thumbnails — bottom, top, left, right"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:200
+msgid "Thumbnail carousel two-column"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:201
+msgid "Thumbnail vertical scroll"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:202
+msgid "Dot, Dynamic Bullet and Fraction styles"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:203
+msgid "Slide, Fade, Cube, Flip, Coverflow, Creative effects"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:204
+msgid "Standard zoom"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:205
+msgid "YouTube video support"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:206
+msgid "Inline and Popup playback modes"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:207
+msgid "360° popup view (basic)"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:208
+msgid "Full-screen lightbox popup"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:209
+msgid "Per-variation image gallery"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:210
+msgid "Autoplay, infinite loop, mouse wheel control"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:211
+msgid "RTL language support"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:212
+msgid "Fully responsive and mobile-friendly"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:220
+msgid "Easy Product Gallery — Upgrade to Pro"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:236
+msgid "Pro Gallery Layouts"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:239
+msgid "These additional gallery layouts are available in the Pro version."
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:248
+#: admin/class-woo-product-gallery-admin.php:270
+#: admin/class-woo-product-gallery-admin.php:293
+msgid "Pro"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:258
+msgid "Pro Pagination Styles"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:261
+msgid "Advanced pagination designs included with the Pro version."
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:285
+msgid "Features"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:288
+msgid "Free"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:297
+msgid "Upgrade"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:305
+msgid "Available in Free &amp; Pro"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:318
+msgid "Pro Exclusive Features"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:332
+msgid "Ready to supercharge your product gallery?"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:355
+#: admin/settings/posttype/easy-post-type.php:129
+msgid "Gallery Settings"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:424
+#: admin/class-woocommerce-hooks.php:217
+msgid "Add More"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:425
+msgid "Are you sure you want to reset all settings to defaults? This cannot be undone."
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:483
+msgid "Settings have been reset to defaults."
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:490
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:502
+msgid "Easy Product Gallery Settings"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:506
+msgid "Reset Default Settings"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:509
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:530
+msgid "Quick Access"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:536
+msgid "Help Center"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:548
+msgid "Rate Us"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:822
+#: admin/class-woo-product-gallery-admin.php:883
+#: admin/class-woo-product-gallery-admin.php:923
+msgid "General"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:829
+msgid "Slider"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:835
+msgid "Main Product Slider"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:838
+msgid "Thumb Slider"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:841
+msgid "Product Zoom"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:848
+msgid "Lightbox"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:854
+msgid "Video"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:860
+msgid "360° View"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:887
+msgid "Product Navigation"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:891
+msgid "Product Pagination"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:927
+msgid "Thumbnail Navigation"
+msgstr ""
+
+#: admin/class-woo-product-gallery-admin.php:977
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-woocommerce-hooks.php:109
+msgid "Video Link"
+msgstr ""
+
+#: admin/class-woocommerce-hooks.php:118
+msgid "Add a YouTube video link."
+msgstr ""
+
+#: admin/class-woocommerce-hooks.php:168
+msgid "Image Gallery"
+msgstr ""
+
+#: admin/class-woocommerce-hooks.php:221
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/class-woocommerce-hooks.php:230
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/class-woocommerce-hooks.php:233
+msgid "Remove all"
+msgstr ""
+
+#: admin/settings/fields/border.php:17
+#: admin/settings/fields/dimension.php:56
+msgid "Width"
+msgstr ""
+
+#: admin/settings/fields/border.php:27
+msgid "Style"
+msgstr ""
+
+#: admin/settings/fields/dimension.php:52
+msgid "Height"
+msgstr ""
+
+#: admin/settings/fields/image_select.php:38
+msgid "Demo"
+msgstr ""
+
+#: admin/settings/fields/responsive_slider.php:20
+msgid "Desktop"
+msgstr ""
+
+#: admin/settings/fields/responsive_slider.php:25
+msgid "Tablet (≤921px)"
+msgstr ""
+
+#: admin/settings/fields/responsive_slider.php:30
+msgid "Mobile (≤767px)"
+msgstr ""
+
+#: admin/settings/fields/spacing.php:52
+msgid "Top"
+msgstr ""
+
+#: admin/settings/fields/spacing.php:53
+msgid "Right"
+msgstr ""
+
+#: admin/settings/fields/spacing.php:54
+msgid "Bottom"
+msgstr ""
+
+#: admin/settings/fields/spacing.php:55
+msgid "Left"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:91
+msgctxt "post type general name"
+msgid "Layouts"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:92
+msgctxt "post type singular name"
+msgid "Layout"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:93
+msgctxt "admin menu"
+msgid "Layouts"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:94
+msgctxt "add new on admin bar"
+msgid "Layout"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:95
+msgctxt "layout"
+msgid "Add New"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:96
+msgid "Add New Layout"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:97
+msgid "New Layout"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:98
+msgid "Edit Layout"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:99
+msgid "View Layout"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:100
+msgid "All Layouts"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:101
+msgid "Search Layouts"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:102
+msgid "Parent Layouts:"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:103
+msgid "No layouts found."
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:104
+msgid "No layouts found in Trash."
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:149
+msgid "Assigned Products"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:183
+msgid "(Edit Product)"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:210
+#: admin/settings/posttype/easy-post-type.php:314
+msgid "Assign Products"
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:226
+#: admin/settings/posttype/easy-post-type.php:274
+msgid "You do not have permission to do this."
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:232
+#: admin/settings/posttype/easy-post-type.php:280
+msgid "Invalid layout ID."
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:256
+msgid "Selected products are already assigned to other layouts."
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:261
+msgid "Products saved successfully."
+msgstr ""
+
+#: admin/settings/posttype/easy-post-type.php:332
+msgid "Save"
+msgstr ""
+
+#: includes/class-easy-woo-gallery.php:124
+msgid "Settings"
+msgstr ""
+
+#: includes/helper-function.php:600
+msgid "Product 360 View Gallery (optional)"
+msgstr ""
+
+#: includes/helper-function.php:654
+#: includes/helper-function.php:687
+msgid "Delete image"
+msgstr ""
+
+#: includes/helper-function.php:655
+#: includes/helper-function.php:688
+msgid "Delete"
+msgstr ""
+
+#: includes/helper-function.php:685
+msgid "Add Images Gallery"
+msgstr ""
+
+#: includes/helper-function.php:686
+msgid "Add to gallery"
+msgstr ""
+
+#: includes/helper-function.php:690
+msgid "Add 360 view gallery images"
+msgstr ""
+
+#: includes/helper-function.php:829
+msgid "360 product view"
+msgstr ""
+
+#: includes/helper-function.php:890
+msgid "Previous"
+msgstr ""
+
+#: includes/helper-function.php:891
+msgid "Play"
+msgstr ""
+
+#: includes/helper-function.php:892
+msgid "Next"
+msgstr ""
+
+#: includes/helper-function.php:1201
+#: includes/helper-function.php:1246
+msgid "Full Size (Original Image)"
+msgstr ""
+
+#: includes/helper-function.php:1215
+#: includes/helper-function.php:1228
+#: includes/helper-function.php:1260
+#: includes/helper-function.php:1273
+msgid "hard"
+msgstr ""
+
+#: includes/helper-function.php:1215
+#: includes/helper-function.php:1228
+#: includes/helper-function.php:1260
+#: includes/helper-function.php:1273
+msgid "soft"
+msgstr ""
+
+#: includes/helper-function.php:1233
+msgid "Custom Size"
+msgstr ""
+
+#: public/includes/class-woo-gallery-view.php:117
+msgid "Sale!"
+msgstr ""
+
+#: public/includes/class-woo-gallery-view.php:145
+msgid "Product not found"
+msgstr ""
+
+#: public/includes/sliders/preview-slider.php:146
+#: public/includes/sliders/thumb-slider.php:60
+msgid "Click here to play video."
+msgstr ""
